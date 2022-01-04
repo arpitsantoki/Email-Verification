@@ -1,0 +1,10 @@
+E:\Arpit\ASP.Net\identity-aspnetcore-email-confirmation-identity\IdentityByExamples\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+E:\Arpit\ASP.Net\identity-aspnetcore-email-confirmation-identity\IdentityByExamples\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+E:\Arpit\ASP.Net\identity-aspnetcore-email-confirmation-identity\IdentityByExamples\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+E:\Arpit\ASP.Net\identity-aspnetcore-email-confirmation-identity\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.AssemblyReference.cache
+E:\Arpit\ASP.Net\identity-aspnetcore-email-confirmation-identity\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arpit\ASP.Net\identity-aspnetcore-email-confirmation-identity\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+E:\Arpit\ASP.Net\identity-aspnetcore-email-confirmation-identity\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+E:\Arpit\ASP.Net\identity-aspnetcore-email-confirmation-identity\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+E:\Arpit\ASP.Net\identity-aspnetcore-email-confirmation-identity\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+E:\Arpit\ASP.Net\identity-aspnetcore-email-confirmation-identity\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
